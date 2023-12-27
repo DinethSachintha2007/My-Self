@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@200&family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+body{
+  background-color: #262424;
+  
+  
+  border: 5px solid white;
+  padding: 50px;
+  
+
+}
+ul,ol,h1,marquee{
+  color: white;
+  
+}
+a{
+  text-decoration: underline;
+  color: #2bf507;
+  
+
+}
+marquee{
+  font-size:50px;
+  font-family: Nabla;
+}
+h1{
+  font-family: Rubik Doodle Shadow;
+}
+ul{
+  font-family: Kalnia;
+}
+#photo{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  float: right;
+  
+
+}
+li{
+  margin-top: 10px;
+
+}
